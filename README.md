@@ -43,6 +43,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/mohammed-mustafa-7b9321339/"><img src="https://img.shields.io/badge/-LinkedIn-0060A0?style=for-the-badge&logo=Linkedin&logoColor=white" height="30"> </img> </a>
-  <a target="_blank" href="mailto:mhmdmstaf17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-800000?style=for-the-badge&logo=Gmail&logoColor=white" height="30" > </img> </a>
+  <a target="_blank" href="https://discord.com/users/782869697263304714"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/mohammed-mustafa-7b9321339/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
+  <a target="_blank" href="mailto:mhmdmstaf17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-800000?style=for-the-badge&logo=Gmail&logoColor=white" height="30"></a>
 <br/>
