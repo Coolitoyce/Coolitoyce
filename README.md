@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://www.icegif.com/wp-content/uploads/icegif-1852.gif">
+<img align="right" src="https://media.tenor.com/mixYP-IWVzMAAAAj/monkey-monkeytype.gif">
 
 - 🎓 Computer Science student passionate about building practical software.
 - 🌐 Currently learning React and modern frontend development.
