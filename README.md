@@ -14,6 +14,7 @@
 - 🎓 Computer Science student passionate about building practical software.
 - 🌐 Currently learning React and modern frontend development.
 - 📚 Always learning new technologies and improving my problem solving skills.
+- ⌨️ I also type fast! Check my <a href="https://monkeytype.com/profile/Coolitoyce" target="_blank">Monkeytype</a>.
 <br clear="right"/>
 
 ---
